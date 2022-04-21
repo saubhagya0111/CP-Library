@@ -1,3 +1,4 @@
+//Only disadvantage is the more memory usage
 const int N = 10000000;
 vector<int> lp(N + 1);
 vector<int> pr;
